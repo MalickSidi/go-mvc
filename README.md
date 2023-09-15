@@ -9,7 +9,7 @@
 - Business logic
 - Statless
 - Invque
-  - Other Services-
+  - Other Services
   - Models
   - External ( Providers / Data Sources )
 - Handle
@@ -18,6 +18,9 @@
   - Metrics
   - etc
 
-## Model
+## Model (Domain, DAOs)
+- Structure of Domain Objects
+- Data Persistence
 
 ## View
+- Response
