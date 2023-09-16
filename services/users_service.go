@@ -5,6 +5,6 @@ import (
 	"github.com/MalickSidi/mvc01/utils"
 )
 
-func GetUser(userId int64) (*domain.User, *utils.ApplicationError) {
+func GetUser(userId uint64) (*domain.User, *utils.ApplicationError) {
 	return domain.GetUser(userId)
 }
